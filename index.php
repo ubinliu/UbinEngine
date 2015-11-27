@@ -15,8 +15,8 @@ define("LOG_PATH", ROOT_PATH . "/logs/");
 require_once("UbinEngine.php");
 
 UbinEngine::AutoLoad(CONTROLLER_PATH);
-UbinEngine::AutoLoad(VIEW_PATH);
 UbinEngine::AutoLoad(LIB_PAHT);
+
 UbinEngine::AutoHandleErrors(true);
 
 $routes = array(
