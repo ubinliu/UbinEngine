@@ -1,5 +1,8 @@
 # UbinEngine
 
+## 中文介绍见博客
+[小而美的php框架](http://ubinliu.com/article/27)
+
 ## Introduction
 > a simple but cute php framework for develop quickly
 
